@@ -50,6 +50,7 @@
 		<module>aubga-skillmap</module>
 		<module>aubga-spring</module>
 		<module>aubga-zookeeper</module>
+		<module>aubga-mybatis</module>
 	</modules>
 <!-- 	<distributionManagement>
 		<repository>
