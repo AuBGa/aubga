@@ -32,16 +32,26 @@
 	</organization>
 	<!-- under modules -->
 	<modules>
+		<module>aubga-algorithm</module>
+		<module>aubga-architects</module>
+		<module>aubga-concurrency</module>
+		<module>aubga-container</module>
+		<module>aubga-datastruct</module>
 		<module>aubga-java</module>
 		<module>aubga-jvm</module>
-		<module>aubga-spring</module>
-		<module>aubga-zookeeper</module>
 		<module>aubga-kafka</module>
-		<module>aubga-redis</module>
+		<module>aubga-log</module>
 		<module>aubga-memcache</module>
 		<module>aubga-mq</module>
+		<module>aubga-pattern</module>
+		<module>aubga-performance</module>
+		<module>aubga-protocol</module>
+		<module>aubga-redis</module>
+		<module>aubga-skillmap</module>
+		<module>aubga-spring</module>
+		<module>aubga-zookeeper</module>
 	</modules>
-	<distributionManagement>
+<!-- 	<distributionManagement>
 		<repository>
 			<id>releases</id>
 			<name>Nexus Release Repository</name>
@@ -52,7 +62,7 @@
 			<name>Nexus Snapshot Repository</name>
 			<url>http://hudson.biztech.sogou-inc.com/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
-	</distributionManagement>
+	</distributionManagement> -->
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
