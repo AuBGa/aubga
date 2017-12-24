@@ -3,17 +3,18 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com</groupId>
-		<artifactId>aubga</artifactId>
-		<version>1.0.0</version>
+		<artifactId>aubga-spring</artifactId>
+		<version>${aubga.version}</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
-	<artifactId>aubga-spring</artifactId>
+	<artifactId>springCloud</artifactId>
 	<version>${aubga.version}</version>
-	<packaging>pom</packaging>
-	<name>aubga-spring</name>
-	<modules>
-		<module>springBoot</module>
-		<module>springCloud</module>
-		<module>springMVC</module>
-	</modules>
+	<packaging>jar</packaging>
+	<name>springCloud</name>
+	<dependencies>
+		<dependency>
+			<groupId>spring3</groupId>
+			<artifactId>org.springframework.aop</artifactId>
+		</dependency>
+	</dependencies>
 </project>
