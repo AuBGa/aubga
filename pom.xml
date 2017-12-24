@@ -38,6 +38,7 @@
 		<module>aubga-container</module>
 		<module>aubga-datastruct</module>
 		<module>aubga-java</module>
+		<module>aubga-json</module>
 		<module>aubga-jvm</module>
 		<module>aubga-kafka</module>
 		<module>aubga-log</module>
