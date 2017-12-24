@@ -51,6 +51,7 @@
 		<module>aubga-spring</module>
 		<module>aubga-zookeeper</module>
 		<module>aubga-mybatis</module>
+		<module>aubga-mysql</module>
 	</modules>
 <!-- 	<distributionManagement>
 		<repository>
