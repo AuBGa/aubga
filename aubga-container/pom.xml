@@ -11,10 +11,10 @@
 	<version>${aubga.version}</version>
 	<packaging>jar</packaging>
 	<name>aubga-redis</name>
-	<dependencies>
+	<!-- <dependencies>
 		<dependency>
 			<groupId>spring3</groupId>
 			<artifactId>org.springframework.aop</artifactId>
 		</dependency>
-	</dependencies>
+	</dependencies> -->
 </project>

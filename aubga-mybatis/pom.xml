@@ -11,10 +11,4 @@
 	<version>${aubga.version}</version>
 	<packaging>jar</packaging>
 	<name>aubga-mybatis</name>
-	<dependencies>
-		<dependency>
-			<groupId>spring3</groupId>
-			<artifactId>org.springframework.aop</artifactId>
-		</dependency>
-	</dependencies>
 </project>
