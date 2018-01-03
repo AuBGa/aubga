@@ -54,6 +54,7 @@
 		<module>aubga-mybatis</module>
 		<module>aubga-mysql</module>
 		<module>aubga-http</module>
+		<module>aubga-junit</module>
 	</modules>
 <!-- 	<distributionManagement>
 		<repository>
