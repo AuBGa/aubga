@@ -1,5 +1,6 @@
 package com.aubga.kafka;
 
+import java.util.Date;
 import java.util.Properties;
 import java.util.concurrent.Executors;
 
@@ -11,7 +12,7 @@ public class ProducerTest {
 	
     public final static String TOPIC = "aubga_topic";
     public final static String SERVER_HOST = "10.103.27.13:9092";
-    public final static String MESSAGE = "asset-basic|1514351440088|dcc8deb8594704e6|73cb68a169823f80|cd98d5815d85808e|10.103.27.11|mybatis|select * from ast_matched_record|432|";
+    public final static String MESSAGE = "asset-basic|"+new Date().getTime()+"|dcc8deb8594704e6|73cb68a169823f80|cd98d5815d85808e|10.103.27.11|mybatis|select * from ast_matched_record|432|";
    
 	
 	  private Producer<String,String> producer;

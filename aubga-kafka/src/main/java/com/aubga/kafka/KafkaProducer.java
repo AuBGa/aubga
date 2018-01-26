@@ -43,5 +43,9 @@ public class KafkaProducer {
     public static void main( String[] args ) {
         new KafkaProducer().produce();
     }
+    
+    public String getContent() {
+    	return "";
+    }
 
 }
