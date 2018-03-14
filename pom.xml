@@ -55,6 +55,7 @@
 		<module>aubga-mysql</module>
 		<module>aubga-http</module>
 		<module>aubga-junit</module>
+		<module>aubga-go</module>
 	</modules>
 <!-- 	<distributionManagement>
 		<repository>
