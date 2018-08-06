@@ -15,4 +15,9 @@ public class ArrayListTest {
 		fail("Not yet implemented");
 	}
 
+	@Test
+	public void array() {
+		String[] arrays = new String[] {"1","2"};
+		System.out.println(arrays[1]);
+	}
 }

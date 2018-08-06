@@ -15,5 +15,6 @@
 		<module>springBoot</module>
 		<module>springCloud</module>
 		<module>springMVC</module>
+		<module>springBootSeries</module>
 	</modules>
 </project>

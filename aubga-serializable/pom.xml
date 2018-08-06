@@ -1,0 +1,49 @@
+﻿<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com</groupId>
+		<artifactId>aubga</artifactId>
+		<version>1.0.0</version>
+		<relativePath>../pom.xml</relativePath>
+	</parent>
+	<artifactId>aubga-serializable</artifactId>
+	<version>${aubga.version}</version>
+	<packaging>jar</packaging>
+	<name>aubga-serializable</name>
+
+<dependencies>	
+		<!-- json -->  
+		<!-- 引入fastjson依赖 -->  
+		<dependency>  
+		    <groupId>com.alibaba</groupId>  
+		    <artifactId>fastjson</artifactId>  
+		    <version>1.2.12</version>  
+		</dependency>  
+		<!-- 引jackson依赖 -->  
+		<!-- jackson核心包，必选，提供基于“流模式”解析的API -->  
+		<dependency>  
+		    <groupId>com.fasterxml.jackson.core</groupId>  
+		    <artifactId>jackson-core</artifactId>  
+		    <version>2.7.4</version>  
+		</dependency>  
+		<!-- jackson注解包，可选，提供注解功能 -->  
+		<dependency>  
+		    <groupId>com.fasterxml.jackson.core</groupId>  
+		    <artifactId>jackson-annotations</artifactId>  
+		    <version>2.7.4</version>  
+		</dependency>  
+		<!-- jackson数据绑定包，可选，提供基于“对象绑定”和“树模型”相关API -->  
+		<dependency>  
+		    <groupId>com.fasterxml.jackson.core</groupId>  
+		    <artifactId>jackson-databind</artifactId>  
+		    <version>2.7.4</version>  
+		</dependency>  
+		<!-- 引入gson依赖 -->  
+		<dependency>  
+		    <groupId>com.google.code.gson</groupId>  
+		    <artifactId>gson</artifactId>  
+		    <version>2.6.2</version>  
+		</dependency>
+	  </dependencies>
+</project>

@@ -33,7 +33,7 @@ import java.util.List;
 public class ListUtils {
 
     public static <T> List<T> createListFromItem(final T t) {
-        final List<T> list = new LinkedList<>();
+        final List<T> list = new LinkedList<T>();
         list.add(t);
         return list;
     }
