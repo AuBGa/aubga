@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties> 
 		<aubga.version>1.0.0</aubga.version>
-		<dependency.spring.version>4.3.6.RELEASE</dependency.spring.version>
+		<dependency.spring.version>5.2.7.RELEASE</dependency.spring.version>
 		<dependency.mybatis.version>3.0.6</dependency.mybatis.version>
 		<dependency.mybatis-spring.version>1.0.2</dependency.mybatis-spring.version>
 		<project.build.sourceEncoding>${file_encoding}</project.build.sourceEncoding>
