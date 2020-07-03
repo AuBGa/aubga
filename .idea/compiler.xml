@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aubga-algorithm" />
+        <module name="aubga-architects" />
+        <module name="aubga-concurrency" />
+        <module name="aubga-container" />
+        <module name="aubga-datastruct" />
+        <module name="aubga-go" />
+        <module name="aubga-http" />
+        <module name="aubga-java" />
+        <module name="aubga-json" />
+        <module name="aubga-junit" />
+        <module name="aubga-jvm" />
+        <module name="aubga-kafka" />
+        <module name="aubga-log" />
+        <module name="aubga-memcache" />
+        <module name="aubga-mq" />
+        <module name="aubga-mybatis" />
+        <module name="aubga-mysql" />
+        <module name="aubga-pattern" />
+        <module name="aubga-performance" />
+        <module name="aubga-protocal" />
+        <module name="aubga-redis" />
+        <module name="aubga-serializable" />
+        <module name="aubga-skillmap" />
+        <module name="aubga-zookeeper" />
+        <module name="jwt" />
+        <module name="SpringBoot" />
+        <module name="springCloud" />
+        <module name="springMVC" />
+        <module name="tbschedule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="aubga" target="1.8" />
+      <module name="aubga-algorithm" target="1.8" />
+      <module name="aubga-architects" target="1.8" />
+      <module name="aubga-concurrency" target="1.8" />
+      <module name="aubga-container" target="1.8" />
+      <module name="aubga-go" target="1.8" />
+      <module name="aubga-http" target="1.8" />
+      <module name="aubga-java" target="1.8" />
+      <module name="aubga-json" target="1.8" />
+      <module name="aubga-junit" target="1.8" />
+      <module name="aubga-jvm" target="1.8" />
+      <module name="aubga-kafka" target="1.8" />
+      <module name="aubga-log" target="1.8" />
+      <module name="aubga-memcache" target="1.8" />
+      <module name="aubga-mq" target="1.8" />
+      <module name="aubga-mybatis" target="1.8" />
+      <module name="aubga-mysql" target="1.8" />
+      <module name="aubga-pattern" target="1.8" />
+      <module name="aubga-performance" target="1.8" />
+      <module name="aubga-protocal" target="1.8" />
+      <module name="aubga-redis" target="1.8" />
+      <module name="aubga-serializable" target="1.8" />
+      <module name="aubga-skillmap" target="1.8" />
+      <module name="aubga-spring" target="1.8" />
+      <module name="aubga-taobao" target="1.8" />
+      <module name="aubga-zookeeper" target="1.8" />
+      <module name="jwt" target="1.8" />
+      <module name="SpringBoot" target="1.8" />
+      <module name="springCloud" target="1.8" />
+      <module name="springMVC" target="1.8" />
+      <module name="tbschedule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

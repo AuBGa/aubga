@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aubga-spring/springBoot/SpringBoot.iml" filepath="$PROJECT_DIR$/aubga-spring/springBoot/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga.iml" filepath="$PROJECT_DIR$/aubga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-algorithm/aubga-algorithm.iml" filepath="$PROJECT_DIR$/aubga-algorithm/aubga-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-architects/aubga-architects.iml" filepath="$PROJECT_DIR$/aubga-architects/aubga-architects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-concurrency/aubga-concurrency.iml" filepath="$PROJECT_DIR$/aubga-concurrency/aubga-concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-container/aubga-container.iml" filepath="$PROJECT_DIR$/aubga-container/aubga-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-go/aubga-go.iml" filepath="$PROJECT_DIR$/aubga-go/aubga-go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-http/aubga-http.iml" filepath="$PROJECT_DIR$/aubga-http/aubga-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-java/aubga-java.iml" filepath="$PROJECT_DIR$/aubga-java/aubga-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-json/aubga-json.iml" filepath="$PROJECT_DIR$/aubga-json/aubga-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-junit/aubga-junit.iml" filepath="$PROJECT_DIR$/aubga-junit/aubga-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-jvm/aubga-jvm.iml" filepath="$PROJECT_DIR$/aubga-jvm/aubga-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-kafka/aubga-kafka.iml" filepath="$PROJECT_DIR$/aubga-kafka/aubga-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-log/aubga-log.iml" filepath="$PROJECT_DIR$/aubga-log/aubga-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-memcache/aubga-memcache.iml" filepath="$PROJECT_DIR$/aubga-memcache/aubga-memcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-mq/aubga-mq.iml" filepath="$PROJECT_DIR$/aubga-mq/aubga-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-mybatis/aubga-mybatis.iml" filepath="$PROJECT_DIR$/aubga-mybatis/aubga-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-mysql/aubga-mysql.iml" filepath="$PROJECT_DIR$/aubga-mysql/aubga-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-pattern/aubga-pattern.iml" filepath="$PROJECT_DIR$/aubga-pattern/aubga-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-performance/aubga-performance.iml" filepath="$PROJECT_DIR$/aubga-performance/aubga-performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-protocol/aubga-protocal.iml" filepath="$PROJECT_DIR$/aubga-protocol/aubga-protocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-redis/aubga-redis.iml" filepath="$PROJECT_DIR$/aubga-redis/aubga-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-serializable/aubga-serializable.iml" filepath="$PROJECT_DIR$/aubga-serializable/aubga-serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-skillmap/aubga-skillmap.iml" filepath="$PROJECT_DIR$/aubga-skillmap/aubga-skillmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-spring/aubga-spring.iml" filepath="$PROJECT_DIR$/aubga-spring/aubga-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-taobao/aubga-taobao.iml" filepath="$PROJECT_DIR$/aubga-taobao/aubga-taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-zookeeper/aubga-zookeeper.iml" filepath="$PROJECT_DIR$/aubga-zookeeper/aubga-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-jwt/jwt.iml" filepath="$PROJECT_DIR$/aubga-jwt/jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-spring/springCloud/springCloud.iml" filepath="$PROJECT_DIR$/aubga-spring/springCloud/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-spring/springMVC/springMVC.iml" filepath="$PROJECT_DIR$/aubga-spring/springMVC/springMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aubga-taobao/tbschedule/tbschedule.iml" filepath="$PROJECT_DIR$/aubga-taobao/tbschedule/tbschedule.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1209b59d-e268-4fac-9a0e-1e9183a02127" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__avalon_framework_avalon_framework_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_auth0_java_jwt_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_taobao_pamirs_schedule_tbschedule_3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_1_1_33_Fork26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_12_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__logkit_logkit_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_10_0_9_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_9_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_jobs_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j_1_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-algorithm/aubga-algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-algorithm/src/main/java/com/aubga/alog/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-architects/aubga-architects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-concurrency/aubga-concurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-container/aubga-container.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-go/aubga-go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-http/aubga-http.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/aubga-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/CompletableFutureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/CompletionServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/DBConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/ForkJoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/GuavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/SimpleLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/SimpleNLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/ThreadLocalSessionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/TransferServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/ObjectSyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/ThreadJoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/ReOrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/SynchronizedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/VolatiledExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter01/ConcurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter01/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter02/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/DoubleCheckedLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/FinalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/FinalReferenceEscapeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/FinalReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/InstanceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/MonitorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/ReentrantLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/ReorderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/SafeDoubleCheckedLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/SafeLazyInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/SynchronizedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/UnsafeLazyInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/VolatileBarrierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/VolatileFeaturesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/VolatileFeaturesExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ConnectionDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ConnectionPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Daemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/DefaultThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Deprecated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Interrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Piped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Profiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Shutdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/SimpleHttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/SleepUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Synchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/BoundedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/ConditionUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/FairAndUnfairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/LockUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/Mutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/ProcessData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/TwinsLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/TwinsLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/ConcurrentPutHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/CountTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicIntegerArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicIntegerFieldUpdaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CyclicBarrierTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CyclicBarrierTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/ExchangerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/JoinCountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/SemaphoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter10/ConcurrentTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter11/IMsgQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter11/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter11/MsgQueueManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/AbstractTemplateLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/ZkSequenTemplateLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/ZkTemplateLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/performance/traverse_2d_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-json/aubga-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-junit/aubga-junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-jvm/aubga-jvm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-kafka/aubga-kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-log/aubga-log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-memcache/aubga-memcache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mq/aubga-mq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/AsyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/ConsumerInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/SyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mybatis/aubga-mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-mysql/aubga-mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-pattern/aubga-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-performance/aubga-performance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-protocol/aubga-protocal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-redis/aubga-redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-serializable/aubga-serializable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-skillmap/aubga-skillmap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-spring/aubga-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-spring/springBoot/SpringBoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-spring/springCloud/springCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-spring/springMVC/springMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-taobao/aubga-taobao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-taobao/tbschedule/tbschedule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga-zookeeper/aubga-zookeeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aubga.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-algorithm/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-datastruct/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-java/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-java/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-java/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-java/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/io/InputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/io/InputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/io/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/regex/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-mq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-mq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-redis/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-redis/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-redis/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-redis/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-redis/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-spring/springBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-spring/springBoot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-spring/springBoot/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-spring/springBoot/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-spring/springBoot/target/classes/META-INF/maven/com/springBoot/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-spring/springBoot/target/classes/META-INF/maven/com/springBoot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-zookeeper/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/aubga-zookeeper/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aubga-zookeeper/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/aubga-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-jvm/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-memcache/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-protocol/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-mysql/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-serializable/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-kafka/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-junit/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-go/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-http/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-mq/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-taobao/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-datastruct/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-java/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-spring/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-algorithm/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-container/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-skillmap/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-redis/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-json/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-spring/springCloud/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-taobao/tbschedule/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-concurrency/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-log/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-spring/springMVC/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-performance/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-architects/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-jwt/target/" />
+    <ignored path="$PROJECT_DIR$/aubga-spring/springBoot/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Counter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter02/Counter.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DoubleCheckedLocking.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/DoubleCheckedLocking.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ConnectionDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoundedQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/BoundedQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicIntegerArrayTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicIntegerArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CountDownLatchTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CountDownLatchTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter10/ConcurrentTask.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="IMsgQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter11/IMsgQueue.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CountTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/CountTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="54" column="40" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentPutHashMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/ConcurrentPutHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jdk</find>
+      <find>1.8</find>
+      <find>Disruptor</find>
+      <find>remov</find>
+      <find>junit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/workspace_groovy/springboot-groovytemplates-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../porter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../porter/manager/manager-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../proter3.0.1/porter/manager/manager-boot" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/InnerClassTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/Outer.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/DBConnectionFactory.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/Session.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/ThreadLocalSessionTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/aubga-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/SyncProducer.java" />
+        <option value="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/AsyncProducer.java" />
+        <option value="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/Consumer.java" />
+        <option value="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/Producer.java" />
+        <option value="$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/ConsumerInOrder.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/AccountService.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/TransferService.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/AccountService.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/TransferService.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/TransferServiceImpl.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/Client.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/performance/traverse_2d_array.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/Limitlatch.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/ObjectSyn.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/SyncString.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo00.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo01.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo03.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo04.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo05.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatile/ReOrderExample.kt" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/ReOrderExample.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/SynchronizedExample.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/VolatiledExample.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter01/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/WaitNotify.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Test.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/JoinDemo.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/ThreadJoinTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/Mutex.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/TwinsLockTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/TwinsLock.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/FairAndUnfairTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/ProcessData.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/ConcurrentPutHashMap.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter01/ConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter02/Counter.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/DoubleCheckedLocking.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ConnectionDriver.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/BoundedQueue.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicIntegerArrayTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter10/ConcurrentTask.java" />
+        <option value="$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter11/IMsgQueue.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.5.2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="940" />
+    <option name="y" value="27" />
+    <option name="width" value="1352" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currentArt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aubga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aubga_allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="aubga-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currentArt" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter06" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="join&#9;PSI&#9;JAVA://com.aubga.java.concurrent.ForkJoinTest" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apache-tomcat-8.5.56-src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.aubga.java.concurrent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aubga.java.concurrent.volatileDemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_ori\aubga_allinone\aubga-java\src\main\java\com\aubga\java\currentArt\chapter11" />
+      <recent name="D:\workspace_ori\aubga_allinone\aubga-java\src\main\java\com\aubga\java\currentArt\chapter10" />
+      <recent name="D:\workspace_ori\aubga_allinone\aubga-java\src\main\java\com\aubga\java\currentArt\chapter08" />
+      <recent name="D:\workspace_ori\aubga_allinone\aubga-java\src\main\java\com\aubga\java\currentArt\chapter07" />
+      <recent name="D:\workspace_ori\aubga_allinone\aubga-java\src\main\java\com\aubga\java\currentArt\chapter05" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FairAndUnfairTest">
+    <configuration name="Interrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aubga.java.currentArt.chapter04.Interrupted" />
+      <module name="aubga-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aubga.java.currentArt.chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Shutdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aubga.java.currentArt.chapter04.Shutdown" />
+      <module name="aubga-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aubga.java.currentArt.chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreadJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aubga.java.concurrent.synchronize.ThreadJoinTest" />
+      <module name="aubga-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aubga.java.concurrent.synchronize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="FairAndUnfairTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aubga-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aubga.java.currentArt.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.aubga.java.currentArt.chapter05" />
+      <option name="MAIN_CLASS_NAME" value="com.aubga.java.currentArt.chapter05.FairAndUnfairTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TwinsLockTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aubga-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aubga.java.currentArt.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.aubga.java.currentArt.chapter05" />
+      <option name="MAIN_CLASS_NAME" value="com.aubga.java.currentArt.chapter05.TwinsLockTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aubga.springboot.Application" />
+    </configuration>
+    <configuration name="JWTApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aubga.jwt.JWTApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.JWTApplication" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.Interrupted" />
+      <item itemvalue="Application.Shutdown" />
+      <item itemvalue="Application.ThreadJoinTest" />
+      <item itemvalue="JUnit.TwinsLockTest.test" />
+      <item itemvalue="JUnit.FairAndUnfairTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FairAndUnfairTest" />
+        <item itemvalue="JUnit.TwinsLockTest.test" />
+        <item itemvalue="Application.ThreadJoinTest" />
+        <item itemvalue="Application.Shutdown" />
+        <item itemvalue="Application.Interrupted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1209b59d-e268-4fac-9a0e-1e9183a02127" name="Default" comment="" />
+      <created>1582682833108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582682833108</updated>
+      <workItem from="1582682837306" duration="1702000" />
+      <workItem from="1582851238464" duration="448000" />
+      <workItem from="1582851868644" duration="60000" />
+      <workItem from="1582852024726" duration="49000" />
+      <workItem from="1591755070789" duration="18833000" />
+      <workItem from="1591858530425" duration="4038000" />
+      <workItem from="1591941413862" duration="7510000" />
+      <workItem from="1592789231889" duration="1281000" />
+      <workItem from="1593499684428" duration="16544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TwinsLockTest_test - 2020.07.02 at 17h 50m 48s.xml">
+      <configuration name="TwinsLockTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwinsLockTest_test - 2020.07.02 at 17h 53m 56s.xml">
+      <configuration name="TwinsLockTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FairAndUnfairTest - 2020.07.02 at 19h 23m 51s.xml">
+      <configuration name="FairAndUnfairTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50465000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4553661" side_tool="true" weight="0.4639321" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.5446339" weight="0.23417085" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="ASM" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499501" weight="0.32964823" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4946695" weight="0.3286432" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.499501" weight="0.32964823" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.499002" weight="0.32964823" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498503" weight="0.5966543" />
+      <window_info anchor="bottom" id="Sequence" order="9" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.499501" weight="0.32964823" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499501" weight="0.32964823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18512975" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo03.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2628">
+          <caret line="146" column="1" selection-start-line="146" selection-start-column="1" selection-end-line="146" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2167#2168#0" expanded="true" />
+            <element signature="e#2215#2216#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+            <element signature="e#2375#2376#0" expanded="true" />
+            <element signature="e#2415#2416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-mq/src/main/java/com/aubga/mq/rabbitmq/ConsumerInOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk_allinone/jdk-8u161/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36864">
+          <caret line="2121" column="47" selection-start-line="2121" selection-start-column="36" selection-end-line="2121" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/TransferService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/async_microservice/TransferServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/performance/traverse_2d_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/lock/Limitlatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/SyncString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/ObjectSyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatile/ReOrderExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter01/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Interrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/Shutdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-892">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/ReOrderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/SynchronizedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/volatileDemo/VolatiledExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/ForkJoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk_allinone/jdk-8u161/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="300" column="47" selection-start-line="300" selection-start-column="41" selection-end-line="300" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk_allinone/jdk-8u161/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="381" column="16" selection-start-line="381" selection-start-column="16" selection-end-line="381" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/JoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/concurrent/synchronize/ThreadJoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/Mutex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk_allinone/jdk-8u161/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk_allinone/jdk-8u161/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="563" column="28" selection-start-line="563" selection-start-column="28" selection-end-line="563" selection-end-column="28" />
+          <folding>
+            <element signature="e#22933#22934#0" expanded="true" />
+            <element signature="e#22965#22966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/TwinsLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/TwinsLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/LockUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/ConditionUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/FairAndUnfairTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/ProcessData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter01/ConcurrencyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter02/Counter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter03/DoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter04/ConnectionDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter05/BoundedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter07/AtomicIntegerArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter08/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter10/ConcurrentTask.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter11/IMsgQueue.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/CountTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aubga-java/src/main/java/com/aubga/java/currentArt/chapter06/ConcurrentPutHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aubga-java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

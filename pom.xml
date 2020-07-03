@@ -36,7 +36,7 @@
 		<module>aubga-architects</module>
 		<module>aubga-concurrency</module>
 		<module>aubga-container</module>
-		<module>aubga-datastruct</module>
+		<!--<module>aubga-datastruct</module>-->
 		<module>aubga-java</module>
 		<module>aubga-json</module>
 		<module>aubga-jvm</module>
@@ -58,6 +58,7 @@
 		<module>aubga-go</module>
 		<module>aubga-serializable</module>
 		<module>aubga-taobao</module>
+		<module>aubga-jwt</module>
 	</modules>
 <!-- 	<distributionManagement>
 		<repository>
@@ -387,8 +388,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>2.3.2</version>
 				 <configuration>
-					<source>1.6</source>
-					<target>1.6</target>
+					<source>1.8</source>
+					<target>1.8</target>
 					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>

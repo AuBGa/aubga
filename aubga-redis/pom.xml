@@ -11,4 +11,22 @@
 	<version>${aubga.version}</version>
 	<packaging>jar</packaging>
 	<name>aubga-redis</name>
+	
+	<dependencies>
+		<dependency>
+			<groupId>redis.clients</groupId>
+			<artifactId>jedis</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.dyuproject.protostuff</groupId>
+			<artifactId>protostuff-runtime</artifactId>
+			<version>1.0.11</version>
+		</dependency>
+		<dependency>
+			<groupId>com.dyuproject.protostuff</groupId>
+			<artifactId>protostuff-core</artifactId>
+			<version>1.0.11</version>
+		</dependency>
+	</dependencies>
 </project>
