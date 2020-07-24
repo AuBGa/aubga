@@ -3,9 +3,9 @@
  */
 package com.aubga.java.currentArt.chapter05;
 
-import java.util.concurrent.locks.Lock;
+import com.aubga.java.currentArt.chapter04.SleepUtils;
 
-import chapter04.SleepUtils;
+import java.util.concurrent.locks.Lock;
 
 /**
  * 10-11

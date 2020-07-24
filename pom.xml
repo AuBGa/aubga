@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 	<name>web application of accounts manager</name>
 	<url>http://maven.apache.org</url>
-	<properties> 
+	<properties>
 		<aubga.version>1.0.0</aubga.version>
 		<dependency.spring.version>4.3.6.RELEASE</dependency.spring.version>
 		<dependency.mybatis.version>3.0.6</dependency.mybatis.version>
@@ -59,6 +59,8 @@
 		<module>aubga-serializable</module>
 		<module>aubga-taobao</module>
 		<module>aubga-jwt</module>
+        <module>aubga-rpc</module>
+		<module>aubga-polling</module>
 	</modules>
 <!-- 	<distributionManagement>
 		<repository>
@@ -364,7 +366,7 @@
 				<artifactId>ezmorph</artifactId>
 				<version>1.0.6</version>
 			</dependency>
-			
+
 		</dependencies>
 	</dependencyManagement>
 	<build>
