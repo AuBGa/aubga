@@ -45,6 +45,7 @@ public class WaitNotify {
 
     static class Notify implements Runnable {
         public void run() {
+
             // 加锁，拥有lock的Monitor
             synchronized (lock) {
                 // 获取lock的锁，然后进行通知，通知时不会释放lock的锁，
