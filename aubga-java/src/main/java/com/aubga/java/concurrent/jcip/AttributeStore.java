@@ -1,9 +1,11 @@
 package com.aubga.java.concurrent.jcip;
 
-import java.util.*;
-import java.util.regex.*;
+import net.jcip.annotations.GuardedBy;
+import net.jcip.annotations.ThreadSafe;
 
-import net.jcip.annotations.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.regex.Pattern;
 
 /**
  * AttributeStore
