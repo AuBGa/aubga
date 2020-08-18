@@ -40,6 +40,7 @@ public class Chapter06 {
 		}
 		System.out.println("Current recently contacted contacts");
 		List<String> contacts = conn.lrange("recent:user", 0, -1);
+;
 		for (String contact : contacts) {
 			System.out.println("  " + contact);
 		}

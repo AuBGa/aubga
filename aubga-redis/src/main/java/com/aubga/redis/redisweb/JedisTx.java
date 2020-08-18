@@ -1,11 +1,9 @@
 package com.aubga.redis.redisweb;
 
+import com.aubga.redis.IP_AND_PORT;
 import org.junit.Test;
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.Response;
 import redis.clients.jedis.Transaction;
-
-import java.util.List;
 
 //  测试redis 事务的方法
 public class JedisTx
@@ -14,7 +12,7 @@ public class JedisTx
     public void  jdeisTxTest()
     {
         //  获取redis的连接
-        Jedis jedis = new Jedis("192.168.2.171", 6379);
+        Jedis jedis = new Jedis(IP_AND_PORT.IP,IP_AND_PORT.PORT);
 
          /*
             redis事务的三步
@@ -33,6 +31,12 @@ public class JedisTx
 
         //  3.执行
         transaction.exec();
+
+        Transaction tx = jedis.multi();
+        tx.set("tx_1","tx_1");
+        tx.set("tx_2","tx_2");
+        tx.exec();
+
         System.out.println(jedis.keys("tx*"));
 
 

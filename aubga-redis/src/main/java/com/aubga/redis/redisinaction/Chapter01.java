@@ -45,8 +45,17 @@ public class Chapter01 {
 		assert articles.size() >= 1;
 	}
 
+	/**
+	 * 提交文章,
+	 * @param conn
+	 * @param user
+	 * @param title
+	 * @param link
+	 * @return
+	 */
 	public String postArticle(Jedis conn, String user, String title, String link) {
-		String articleId = String.valueOf(conn.incr("article:"));
+		//定义计数器
+		String articleId = String.valueOf(conn.incr("article:"));//利用键的自增来获取文章ID
 
 		String voted = "voted:" + articleId;
 		conn.sadd(voted, user);
@@ -60,7 +69,10 @@ public class Chapter01 {
 		articleData.put("user", user);
 		articleData.put("now", String.valueOf(now));
 		articleData.put("votes", "1");
+
+		//文章存储
 		conn.hmset(article, articleData);
+		//定义有序集合
 		conn.zadd("score:", now + VOTE_SCORE, article);
 		conn.zadd("time:", now, article);
 

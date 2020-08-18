@@ -1,6 +1,6 @@
 package com.aubga.redis.redisweb;
 
-import org.junit.Test;
+import com.aubga.redis.IP_AND_PORT;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
@@ -28,7 +28,7 @@ public class JedisPoolUitl
                 jedisPoolConfig.setMaxTotal(8); //  设置线程池最大的连接个数
                 jedisPoolConfig.setMaxIdle(6); //   设置最大空闲数
                 jedisPoolConfig.setMaxWaitMillis(1000); //  jedis实例化后最大的等待时间
-                jedisPool = new JedisPool("192.168.2.171", 6379);
+                jedisPool = new JedisPool(IP_AND_PORT.IP,IP_AND_PORT.PORT);
             }
         }
         return jedisPool;
@@ -44,6 +44,8 @@ public class JedisPoolUitl
         {
             //  关闭资源
             jedisPool.close();
+
+          //  jedis.close();
         }
     }
 

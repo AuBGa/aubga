@@ -219,6 +219,7 @@ public class Chapter05 {
 	public void logRecent(Jedis conn, String name, String message, String severity) {
 		String destination = "recent:" + name + ':' + severity;
 		Pipeline pipe = conn.pipelined();
+
 		pipe.lpush(destination, TIMESTAMP.format(new Date()) + ' ' + message);
 		pipe.ltrim(destination, 0, 99);
 		pipe.sync();

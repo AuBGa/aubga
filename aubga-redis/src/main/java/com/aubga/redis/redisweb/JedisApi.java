@@ -19,7 +19,7 @@ public class JedisApi
     public void before()
     {
         // 连接redis
-        jedis = new Jedis("192.168.2.171", 6379);
+        jedis = new Jedis("10.103.27.16", 6380);
     }
 
     // jedis 操作 String类型

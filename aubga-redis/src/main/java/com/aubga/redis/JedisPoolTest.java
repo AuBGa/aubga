@@ -1,20 +1,21 @@
 package com.aubga.redis;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
-
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.Pipeline;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class JedisPoolTest {
 	
 	public static void pool() {
 		GenericObjectPoolConfig poolConfig = new GenericObjectPoolConfig();
+		poolConfig.setMaxTotal(8);
+		poolConfig.setMaxIdle(6);
 		// 初始化Jedis连接池
-		JedisPool jedisPool = new JedisPool(poolConfig, "10.103.27.16", 6379);
+		JedisPool jedisPool = new JedisPool(poolConfig, IP_AND_PORT.IP,IP_AND_PORT.PORT);
 		
 		System.out.println(jedisPool.toString());
 		
