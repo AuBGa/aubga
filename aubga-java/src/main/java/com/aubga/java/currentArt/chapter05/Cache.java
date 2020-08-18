@@ -23,6 +23,23 @@ public class Cache {
         }
     }
 
+    public static final Object get_1(String key) {
+        r.lock();
+        try {
+            return map.get(key );
+
+        }finally{
+            r.unlock();
+        }
+    }
+    public static final Object put_1(String key,Object value) {
+        w.lock();
+        try {
+            return map.put(key,value);
+        }finally{
+            w.unlock();
+        }
+    }
     public static final Object put(String key, Object value) {
         w.lock();
         try {

@@ -1,5 +1,7 @@
 package com.aubga.java.currentArt.chapter05;
 
+import java.util.HashMap;
+import java.util.Map;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
@@ -11,6 +13,7 @@ public class ProcessData {
     private static final Lock                   readLock  = rwl.readLock();
     private static final Lock                   writeLock = rwl.writeLock();
     private volatile boolean                    update    = false;
+    private static final Map<String, Object> map = new HashMap<String, Object>();
 
     public void processData() {
         readLock.lock();
@@ -33,6 +36,15 @@ public class ProcessData {
         try {
             // 使用数据的流程（略）
         } finally {
+            readLock.unlock();
+        }
+    }
+
+    public Object get(String key) {
+        readLock.lock();
+        try {
+            return map.get(key);
+        }finally{
             readLock.unlock();
         }
     }

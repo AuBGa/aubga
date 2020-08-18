@@ -10,11 +10,13 @@ import java.util.concurrent.locks.ReentrantLock;
 public class ConditionUseCase {
     Lock      lock      = new ReentrantLock();
     Condition condition = lock.newCondition();
+    Condition empty = lock.newCondition();
 
     public void conditionWait() throws InterruptedException {
         lock.lock();
         try {
             condition.await();
+            empty.await();
         } finally {
             lock.unlock();
         }

@@ -32,6 +32,14 @@ public class TwinsLock implements Lock {
                     return newCount;
                 }
             }
+
+          /*  for (;;) {
+                int current = getState();
+                int newCount = current - reduceCount;
+                if(newCount <0 || compareAndSetState(current,newCount)) {
+                    return newCount;
+                }
+            }*/
         }
 
         public boolean tryReleaseShared(int returnCount) {

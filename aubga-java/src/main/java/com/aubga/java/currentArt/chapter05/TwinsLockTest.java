@@ -4,6 +4,7 @@
 package com.aubga.java.currentArt.chapter05;
 
 import com.aubga.java.currentArt.chapter04.SleepUtils;
+import org.junit.Test;
 
 import java.util.concurrent.locks.Lock;
 
@@ -12,6 +13,7 @@ import java.util.concurrent.locks.Lock;
  */
 public class TwinsLockTest {
 
+    @Test
     public void test() {
         final Lock lock = new TwinsLock();
         class Worker extends Thread {
