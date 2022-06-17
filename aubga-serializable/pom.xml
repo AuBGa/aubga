@@ -18,7 +18,7 @@
 		<dependency>  
 		    <groupId>com.alibaba</groupId>  
 		    <artifactId>fastjson</artifactId>  
-		    <version>1.2.12</version>  
+		    <version>1.2.83</version>  
 		</dependency>  
 		<!-- 引jackson依赖 -->  
 		<!-- jackson核心包，必选，提供基于“流模式”解析的API -->  
